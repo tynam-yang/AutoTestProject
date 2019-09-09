@@ -8,6 +8,7 @@
 3、使用VS code 打开项目
   
   code 中选择File >> Open Folder,打开项目
+  
   选择Terminal >> New Terminal打开命令行
   
 4、命令行中输入npm install 用安装项目所依赖的包
