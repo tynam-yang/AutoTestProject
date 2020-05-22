@@ -1,6 +1,8 @@
 # AutoTestProject
 自动化测试项目实练
 
+### 【读者必看】《Python Web自动化测试入门与实战》--错误知识点修正 https://www.cnblogs.com/tynam/p/12935069.html
+
 1、使用git clone https://github.com/tynam-yang/AutoTestProject.git 将项目下载到本地
 
 2、本地安装nodeJs程序。https://nodejs.org/en/download/
